@@ -1,0 +1,242 @@
+
+[Senin, 23 - 07 - 2018 | 19:58:41] 'response'
+[Senin, 23 - 07 - 2018 | 19:58:42] 'response'
+[Senin, 23 - 07 - 2018 | 19:59:03] 'response'
+[Senin, 23 - 07 - 2018 | 23:11:06] sendMention() takes from 2 to 4 positional arguments but 5 were given
+[Selasa, 24 - 07 - 2018 | 00:03:09] sendMention() takes from 2 to 4 positional arguments but 5 were given
+[Selasa, 24 - 07 - 2018 | 22:29:30] Remote end closed connection without response
+[Selasa, 24 - 07 - 2018 | 22:29:48] [Errno 9] Bad file descriptor
+[Selasa, 24 - 07 - 2018 | 22:31:58] Remote end closed connection without response
+[Selasa, 24 - 07 - 2018 | 22:33:49] [Errno 9] Bad file descriptor
+[Selasa, 24 - 07 - 2018 | 22:34:18] [Errno 9] Bad file descriptor
+[Selasa, 24 - 07 - 2018 | 22:41:58] [Errno 9] Bad file descriptor
+[Selasa, 24 - 07 - 2018 | 22:43:20] name 'admin' is not defined
+[Selasa, 24 - 07 - 2018 | 22:51:41] Remote end closed connection without response
+[Selasa, 24 - 07 - 2018 | 22:53:44] Remote end closed connection without response
+[Selasa, 24 - 07 - 2018 | 22:53:47] [Errno 9] Bad file descriptor
+[Selasa, 24 - 07 - 2018 | 23:44:01] 'c91b14ebffb28c27e4116cdeb16e8d83a'
+[Selasa, 24 - 07 - 2018 | 23:48:34] unhashable type: 'dict'
+[Selasa, 24 - 07 - 2018 | 23:51:01] 'LINE' object has no attribute 'SendMessage'
+[Selasa, 24 - 07 - 2018 | 23:57:51] name 'admin' is not defined
+[Rabu, 25 - 07 - 2018 | 00:00:29] encoding without a string argument
+[Rabu, 25 - 07 - 2018 | 00:02:15] 
+[Rabu, 25 - 07 - 2018 | 00:04:15] encoding without a string argument
+[Rabu, 25 - 07 - 2018 | 00:04:53] 
+[Rabu, 25 - 07 - 2018 | 00:36:08] 
+[Rabu, 25 - 07 - 2018 | 00:38:53] 
+[Rabu, 25 - 07 - 2018 | 00:40:23] 
+[Rabu, 25 - 07 - 2018 | 00:42:02] encoding without a string argument
+[Rabu, 25 - 07 - 2018 | 17:33:26] 'sender'
+[Rabu, 25 - 07 - 2018 | 17:36:37] 'msg._from'
+[Rabu, 25 - 07 - 2018 | 17:37:45] 'msg._from'
+[Rabu, 25 - 07 - 2018 | 17:38:48] 'u0d56f7a3f83cbaa71b7aacab896a1e3d'
+[Rabu, 25 - 07 - 2018 | 21:52:37] name 'limito' is not defined
+[Rabu, 25 - 07 - 2018 | 21:57:41] 'u3fc0ddc641712de85a6c1a67ea0d6b8f'
+[Rabu, 25 - 07 - 2018 | 21:57:41] 'uee283fc802e9fde0a9f7f2a3ef3ed993'
+[Rabu, 25 - 07 - 2018 | 21:57:41] 'u3fc0ddc641712de85a6c1a67ea0d6b8f'
+[Rabu, 25 - 07 - 2018 | 21:57:41] 'u3fc0ddc641712de85a6c1a67ea0d6b8f'
+[Rabu, 25 - 07 - 2018 | 21:57:41] 'u3fc0ddc641712de85a6c1a67ea0d6b8f'
+[Rabu, 25 - 07 - 2018 | 21:57:42] 'u3fc0ddc641712de85a6c1a67ea0d6b8f'
+[Rabu, 25 - 07 - 2018 | 21:57:42] 'uee283fc802e9fde0a9f7f2a3ef3ed993'
+[Rabu, 25 - 07 - 2018 | 21:57:42] 'uee283fc802e9fde0a9f7f2a3ef3ed993'
+[Rabu, 25 - 07 - 2018 | 21:57:43] 'uee283fc802e9fde0a9f7f2a3ef3ed993'
+[Rabu, 25 - 07 - 2018 | 21:58:31] 'u3fc0ddc641712de85a6c1a67ea0d6b8f'
+[Rabu, 25 - 07 - 2018 | 21:58:33] 'u3fc0ddc641712de85a6c1a67ea0d6b8f'
+[Rabu, 25 - 07 - 2018 | 21:58:34] 'u3fc0ddc641712de85a6c1a67ea0d6b8f'
+[Kamis, 26 - 07 - 2018 | 20:25:32] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Jumat, 27 - 07 - 2018 | 00:14:11] name 'ririn' is not defined
+[Jumat, 27 - 07 - 2018 | 00:18:01] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Jumat, 27 - 07 - 2018 | 00:22:31] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Jumat, 27 - 07 - 2018 | 01:10:57] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:10:58] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:00] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:01] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:02] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:03] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:04] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:05] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:07] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:08] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:09] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:10] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:11] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:13] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:14] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:15] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:16] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:17] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:18] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:19] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:21] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:22] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:23] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:24] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:25] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:27] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:28] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:30] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:31] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:32] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:33] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:34] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:35] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:36] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:38] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:39] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:40] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:41] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:42] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:43] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:45] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:46] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:47] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:48] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:49] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:50] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:51] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:53] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:54] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:56] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:11:57] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:08] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:10] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:11] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:13] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:14] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:15] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:16] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:18] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:19] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:20] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:22] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:23] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:24] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:26] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:27] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:28] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:30] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:31] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:32] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:34] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:35] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:37] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:38] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:40] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:41] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:43] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:44] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:45] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:47] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:48] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:49] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:51] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:52] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:54] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:55] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:56] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:58] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:12:59] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:00] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:02] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:03] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:05] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:06] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:07] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:09] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:10] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:12] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:13] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:15] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:16] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:18] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:19] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:20] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:21] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:23] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:24] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:25] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:27] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:28] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:29] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:31] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:32] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:33] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:35] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:36] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:13:37] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:37:01] 'in <string>' requires string as left operand, not list
+[Jumat, 27 - 07 - 2018 | 01:40:17] 'in <string>' requires string as left operand, not list
+[Jumat, 27 - 07 - 2018 | 01:48:42] TalkException(code=10, reason='not a member', parameterMap={})
+[Jumat, 27 - 07 - 2018 | 01:51:33] object of type 'NoneType' has no len()
+[Jumat, 27 - 07 - 2018 | 01:53:40] object of type 'NoneType' has no len()
+[Jumat, 27 - 07 - 2018 | 10:47:06] unsupported operand type(s) for +: 'int' and 'str'
+[Jumat, 27 - 07 - 2018 | 10:50:38] unsupported operand type(s) for +: 'int' and 'list'
+[Jumat, 27 - 07 - 2018 | 10:53:02] unsupported operand type(s) for +: 'int' and 'list'
+[Jumat, 27 - 07 - 2018 | 10:55:28] unsupported operand type(s) for +: 'int' and 'str'
+[Sabtu, 28 - 07 - 2018 | 20:06:07] name 'admin' is not defined
+[Sabtu, 28 - 07 - 2018 | 20:22:26] 'list' object has no attribute 'lower'
+[Sabtu, 28 - 07 - 2018 | 20:22:55] 'list' object has no attribute 'lower'
+[Sabtu, 28 - 07 - 2018 | 23:33:09] local variable 'url' referenced before assignment
+[Sabtu, 28 - 07 - 2018 | 23:34:30] No connection adapters were found for '{'type': 'template', 'altText': 'this is a confirm template', 'template': {'type': 'confirm', 'text': 'Are you sure?', 'actions': [{'type': 'message', 'label': 'Yes', 'text': 'yes'}, {'type': 'message', 'label': 'No', 'text': 'no'}]}}'
+[Sabtu, 28 - 07 - 2018 | 23:34:34] No connection adapters were found for '{'type': 'template', 'altText': 'this is a confirm template', 'template': {'type': 'confirm', 'text': 'Are you sure?', 'actions': [{'type': 'message', 'label': 'Yes', 'text': 'yes'}, {'type': 'message', 'label': 'No', 'text': 'no'}]}}'
+[Sabtu, 28 - 07 - 2018 | 23:51:04] name 'headers' is not defined
+[Sabtu, 28 - 07 - 2018 | 23:57:07] No connection adapters were found for '{'cc': 'qu+VYooOdzDnVLYrGb5xsLl7q3zNqJh5WAmpXLNgH9fh+1DYksKPH7M37Ygx6hGJvvBPl4dRS21Fq7kdwPwN/xsIMoce+nOL3jgjEf98C/azgqN+4gsS9UkvO9MEN8rdBBkatYBbV+WLCcPE7m2CKh0J7FEeAr1u2fLVUGC3nDoZ2uBlkMAnNPbWOSbvxqT1PNzSZdFHtnqmy9CBRPpgfwDjrt+7s2b6rQETJFzCx+xECl66fnp9NsLyjVZ5TCV4hzQ1A/rmpjJflZkdwTE+adkG5fMSeI90d6wNmJxi2y+WBklAas1kH7hXLeQ00tGicJ9t5aTUFRhNItDmVnCCzw==', 'to': 'c91b14ebffb28c27e4116cdeb16e8d83a', 'messages': {'type': 'template', 'altText': 'this is a confirm template', 'template': {'type': 'confirm', 'text': 'Are you sure?', 'actions': [{'type': 'message', 'label': 'Yes', 'text': 'yes'}, {'type': 'message', 'label': 'No', 'text': 'no'}]}}}'
+[Kamis, 02 - 08 - 2018 | 22:47:40] 'method' object is not iterable
+[Kamis, 02 - 08 - 2018 | 22:48:16] 'method' object is not iterable
+[Kamis, 02 - 08 - 2018 | 23:25:10] 'list' object has no attribute 'lower'
+[Kamis, 02 - 08 - 2018 | 23:25:23] 'list' object has no attribute 'lower'
+[Kamis, 02 - 08 - 2018 | 23:26:10] 'list' object has no attribute 'lower'
+[Jumat, 03 - 08 - 2018 | 00:07:41] 'ROM'
+[Jumat, 03 - 08 - 2018 | 00:09:49] 'ROM'
+[Jumat, 03 - 08 - 2018 | 00:09:54] 'ROM'
+[Jumat, 03 - 08 - 2018 | 00:10:41] 'ROM'
+[Jumat, 03 - 08 - 2018 | 17:26:29] 'list' object has no attribute 'lower'
+[Jumat, 03 - 08 - 2018 | 22:30:42] 'LINE' object has no attribute 'getRecentMessagesV2'
+[Jumat, 03 - 08 - 2018 | 22:31:53] 'LINE' object has no attribute 'getRecentMessagesV2'
+[Jumat, 03 - 08 - 2018 | 22:32:44] 'list' object has no attribute 'lower'
+[Jumat, 03 - 08 - 2018 | 22:32:51] 'LINE' object has no attribute 'getRecentMessagesV2'
+[Jumat, 03 - 08 - 2018 | 22:37:11] 'LINE' object has no attribute 'getRecentMessagesV2'
+[Jumat, 03 - 08 - 2018 | 22:38:41] 'LINE' object has no attribute 'getRecentMessagesV2'
+[Jumat, 03 - 08 - 2018 | 22:45:08] 'list' object has no attribute 'lower'
+[Sabtu, 04 - 08 - 2018 | 01:01:23] 'list' object has no attribute 'lower'
+[Sabtu, 04 - 08 - 2018 | 01:01:30] 'LINE' object has no attribute 'getRecentMessages'
+[Sabtu, 04 - 08 - 2018 | 01:04:31] 'list' object has no attribute 'lower'
+[Sabtu, 04 - 08 - 2018 | 01:04:59] 'list' object has no attribute 'lower'
+[Sabtu, 04 - 08 - 2018 | 01:05:07] 'LINE' object has no attribute 'getRecentMessagesV1'
+[Sabtu, 04 - 08 - 2018 | 01:08:44] 'list' object has no attribute 'lower'
+[Sabtu, 04 - 08 - 2018 | 01:08:49] 'LINE' object has no attribute 'getRecentMessagesV1'
+[Sabtu, 04 - 08 - 2018 | 01:11:50] 'LINE' object has no attribute 'getRecentMessagesV2'
+[Sabtu, 04 - 08 - 2018 | 01:17:37] 'list' object has no attribute 'lower'
+[Sabtu, 04 - 08 - 2018 | 01:20:47] 'list' object has no attribute 'lower'
+[Sabtu, 04 - 08 - 2018 | 12:26:46] Upload image failure.
+[Sabtu, 04 - 08 - 2018 | 22:45:37] invalid literal for int() with base 10: '4 @~RynKun~[眼] '
+[Minggu, 05 - 08 - 2018 | 15:33:04] sendMention() takes from 2 to 4 positional arguments but 5 were given
+[Minggu, 05 - 08 - 2018 | 15:45:35] EOF occurred in violation of protocol (_ssl.c:833)
+[Minggu, 05 - 08 - 2018 | 15:48:37] Invalid mids
+[Minggu, 05 - 08 - 2018 | 15:53:23] Invalid mids
+[Minggu, 05 - 08 - 2018 | 15:53:31] Invalid mids
+[Minggu, 05 - 08 - 2018 | 15:59:50] Invalid mids
+[Minggu, 05 - 08 - 2018 | 16:16:04] Invalid mids
+[Minggu, 05 - 08 - 2018 | 16:34:17] Invalid mids
+[Senin, 06 - 08 - 2018 | 17:21:00] [Errno 2] No such file or directory: 'tmp/vid.bin'
+[Senin, 06 - 08 - 2018 | 17:21:51] [Errno 2] No such file or directory: 'tmp/vid.bin'
+[Jumat, 10 - 08 - 2018 | 09:20:34] 'LINE' object has no attribute 'changeVideoAndPictureProfile'
+[Jumat, 10 - 08 - 2018 | 09:21:44] 'LINE' object has no attribute 'changeVideoAndPictureProfile'
+[Jumat, 10 - 08 - 2018 | 09:38:08] 'LINE' object has no attribute 'changeVideoAndPictureProfile'
+[Jumat, 10 - 08 - 2018 | 17:14:49] local variable 'pict' referenced before assignment
+[Jumat, 10 - 08 - 2018 | 17:16:57] local variable 'pict' referenced before assignment
+[Jumat, 10 - 08 - 2018 | 17:18:40] local variable 'pict' referenced before assignment
+[Jumat, 10 - 08 - 2018 | 17:19:08] local variable 'pict' referenced before assignment
+[Sabtu, 11 - 08 - 2018 | 15:47:35] Invalid mids
+[Sabtu, 11 - 08 - 2018 | 15:48:42] Invalid mids
+[Sabtu, 11 - 08 - 2018 | 15:49:54] Invalid mids
+[Sabtu, 11 - 08 - 2018 | 15:51:26] Invalid mids
+[Sabtu, 11 - 08 - 2018 | 15:52:39] Invalid mids
+[Sabtu, 11 - 08 - 2018 | 15:54:01] Invalid mids
+[Sabtu, 11 - 08 - 2018 | 15:56:04] invalid literal for int() with base 10: '2@ʙᴏᴛ'
+[Sabtu, 11 - 08 - 2018 | 15:56:51] Invalid mids
+[Sabtu, 11 - 08 - 2018 | 15:59:40] Invalid mids
+[Sabtu, 11 - 08 - 2018 | 21:43:59] [Errno 103] Software caused connection abort
+[Sabtu, 11 - 08 - 2018 | 21:47:36] TalkException(code=6, reason='Invalid length of displayName: [Filter Chat]- - -Slow RespFast Resp Just For HimEveryone can be cool. \U00100103\U001001d1cool\U0010ffff----------------------------------------Qanitha\U001000b1--------ↁ∅₵(Defender øf Crime) --------------------------------suport by :T̷̨̳͎̥̤͚̄̽͛͌̿Ç̞̫͙̘̟̣̮͑̍̿͗̌̆̆͋R̷̳̜̼̟̱̳̬͉̖͖̐̀̇̒̾  T̶̢̙̥̟̫̽̍͛̎͠͞Ȇ̸̱͉̬̞̩̠͈̘̰̅̉̏̚͢A̶̢̹̝͔͎̯̟̝̪͛̐̑̉͑͟M̸͓̦̟̱̘̿͗̓͒̽̑͋͞N҉O҉T҉I҉T҉L҉E҉.Ƙ͐͢͠Ȅ͖ β̸̷͢͝δ͠Т̸͍͝ Δ̸͜͡͠Π͜͡҈҈҉', parameterMap=None)
+[Sabtu, 11 - 08 - 2018 | 21:48:10] TalkException(code=6, reason='Invalid length of displayName: [Filter Chat]- - -Slow RespFast Resp Just For HimEveryone can be cool. \U00100103\U001001d1cool\U0010ffff----------------------------------------Qanitha\U001000b1--------ↁ∅₵(Defender øf Crime) --------------------------------suport by :T̷̨̳͎̥̤͚̄̽͛͌̿Ç̞̫͙̘̟̣̮͑̍̿͗̌̆̆͋R̷̳̜̼̟̱̳̬͉̖͖̐̀̇̒̾  T̶̢̙̥̟̫̽̍͛̎͠͞Ȇ̸̱͉̬̞̩̠͈̘̰̅̉̏̚͢A̶̢̹̝͔͎̯̟̝̪͛̐̑̉͑͟M̸͓̦̟̱̘̿͗̓͒̽̑͋͞N҉O҉T҉I҉T҉L҉E҉.Ƙ͐͢͠Ȅ͖ β̸̷͢͝δ͠Т̸͍͝ Δ̸͜͡͠Π͜͡҈҈҉', parameterMap=None)
+[Sabtu, 11 - 08 - 2018 | 21:48:44] TalkException(code=6, reason='Invalid length of displayName: ', parameterMap=None)
