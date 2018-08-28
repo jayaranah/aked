@@ -58,7 +58,7 @@ unsend = json.load(unsendOpen)
 offbot = []
 detectUnsend = []
 simisimi = []
-owner = ("ua55c6a089a3b3a605ea5828fb981c7ef")
+owner = ("ube187443474747c3ec352e7efeb48c1b")
 
 def restartBot():
 	print ("[ INFO ] BOT RESETTED")
@@ -225,49 +225,49 @@ def clientBot(op):
 							else:
 								settings["fotterlink"] = str(key).lower()
 								client.sendMessage(to, "「SET FOTTER LINK」\nBerhasil mengubah link fotter menjadi :\n「{}」".format(str(key).lower()))
-						elif cmd == "help":
+						elif cmd == "help1":
 							helpMessage = menuHelp()
 							contact = client.getContact(sender)
 							icon = "http://dl.profile.line-cdn.net/{}".format(contact.pictureStatus)
 							name = contact.displayName
 							link = settings["fotterlink"]
 							client.sendFooter(to, helpMessage, icon, name, link)
-						elif cmd == "my":
+						elif cmd == "help2":
 							helpTextToSpeech = menuMy()
 							contact = client.getContact(sender)
 							icon = "http://dl.profile.line-cdn.net/{}".format(contact.pictureStatus)
 							name = contact.displayName
 							link = settings["fotterlink"]
 							client.sendFooter(to, helpTextToSpeech, icon, name, link)
-						elif cmd == "get":
+						elif cmd == "help3":
 							helpTranslate = menuGet()
 							contact = client.getContact(sender)
 							icon = "http://dl.profile.line-cdn.net/{}".format(contact.pictureStatus)
 							name = contact.displayName
 							link = settings["fotterlink"]
 							client.sendFooter(to, helpTranslate, icon, name, link)
-						elif cmd == "group":
+						elif cmd == "help4":
 							helpTranslate = menuGroup()
 							contact = client.getContact(sender)
 							icon = "http://dl.profile.line-cdn.net/{}".format(contact.pictureStatus)
 							name = contact.displayName
 							link = settings["fotterlink"]
 							client.sendFooter(to, helpTranslate, icon, name, link)
-						elif cmd == "mimic":
+						elif cmd == "help5":
 							helpTranslate = menuMimic()
 							contact = client.getContact(sender)
 							icon = "http://dl.profile.line-cdn.net/{}".format(contact.pictureStatus)
 							name = contact.displayName
 							link = settings["fotterlink"]
 							client.sendFooter(to, helpTranslate, icon, name, link)
-						elif cmd == "profile":
+						elif cmd == "help6":
 							helpTranslate = menuChange()
 							contact = client.getContact(sender)
 							icon = "http://dl.profile.line-cdn.net/{}".format(contact.pictureStatus)
 							name = contact.displayName
 							link = settings["fotterlink"]
 							client.sendFooter(to, helpTranslate, icon, name, link)
-						elif cmd == "spam":
+						elif cmd == "help7":
 							helpTranslate = menuSpam()
 							contact = client.getContact(sender)
 							icon = "http://dl.profile.line-cdn.net/{}".format(contact.pictureStatus)
@@ -1544,32 +1544,24 @@ def menuHelp():
 		key = settings['keyCommand']
 	else:
 		key = ''
-	menuHelp =	"╭───「 ʜᴇʟᴘ 」" + "\n" + \
-				"├≽ " + key + "Me" + "\n" + \
-				"├≽ " + key + "Mentionall" + "\n" + \
-				"├≽ " + key + "Mentionme" + "\n" + \
-				"├≽ " + key + "Delmentionme" + "\n" + \
-				"├≽ " + key + "Unsend 「Num」" + "\n" + \
-				"├≽ " + key + "FriendList" + "\n" + \
-				"├≽ " + key + "FriendInfo 「Num」" + "\n" + \
-				"├≽ " + key + "FriendBroadcast" + "\n" + \
-				"├≽ " + key + "Lurking 「On/Off」" + "\n" + \
-				"├≽ " + key + "Lurking" + "\n" + \
-				"├≽ " + key + "CloneProfile 「@」" + "\n" + \
-				"├≽ " + key + "RestoreProfile" + "\n" + \
-				"├≽ " + key + "BackupProfile" + "\n" + \
-				"├≽ " + key + "Speed" + "\n" + \
-				"├≽ " + key + "Runtime" + "\n" + \
-				"├≽ " + key + "Restart" + "\n" + \
-				"├≽ " + key + "Logout" + "\n" + \
-				"├══[ • ]══" + "\n" + \
-				"├≽ " + key + "My" + "\n" + \
-				"├≽ " + key + "Get" + "\n" + \
-				"├≽ " + key + "Profile" + "\n" + \
-				"├≽ " + key + "Status" + "\n" + \
-				"├≽ " + key + "Group" + "\n" + \
-				"├≽ " + key + "Spam" + "\n" + \
-				"├≽ " + key + "Mimic" + "\n" + \
+	menuHelp =	"╭───「 Menu 」" + "\n" + \
+				"├ " + key + "Me" + "\n" + \
+				"├ " + key + "Mentionall" + "\n" + \
+				"├ " + key + "Mentionme" + "\n" + \
+				"├ " + key + "Delmentionme" + "\n" + \
+				"├ " + key + "Unsend 「Num」" + "\n" + \
+				"├ " + key + "FriendList" + "\n" + \
+				"├ " + key + "FriendInfo 「Num」" + "\n" + \
+				"├ " + key + "FriendBroadcast" + "\n" + \
+				"├ " + key + "Lurking 「On/Off」" + "\n" + \
+				"├ " + key + "Lurking" + "\n" + \
+				"├ " + key + "CloneProfile 「@」" + "\n" + \
+				"├ " + key + "RestoreProfile" + "\n" + \
+				"├ " + key + "BackupProfile" + "\n" + \
+				"├ " + key + "Speed" + "\n" + \
+				"├ " + key + "Runtime" + "\n" + \
+				"├ " + key + "Restart" + "\n" + \
+				"├ " + key + "Logout" + "\n" + \
 				"╰────────────"
 	return menuHelp
 
@@ -1578,21 +1570,21 @@ def menuMy():
 		key = settings['keyCommand']
 	else:
 		key = ''
-	menuMy =	"╭────「 My 」" + "\n" + \
-				"├「 Send Mid 」" + "\n" + \
-				"├≽ " + key + "MyMid" + "\n" + \
-				"├「 Send Name 」" + "\n" + \
-				"├≽ " + key + "MyName" + "\n" + \
-				"├「 Send Bio 」" + "\n" + \
-				"├≽ " + key + "MyBio" + "\n" + \
-				"├「 Send Picture 」" + "\n" + \
-				"├≽ " + key + "MyPicture" + "\n" + \
-				"├「 Send Video Profile 」" + "\n" + \
-				"├≽ " + key + "MyVideo" + "\n" + \
-				"├「 Send Cover Profile 」" + "\n" + \
-				"├≽ " + key + "MyCover" + "\n" + \
-				"├「 Send Profile 」" + "\n" + \
-				"├≽ " + key + "MyProfile" + "\n" + \
+	menuMy =	"╭────「 Menu 」" + "\n" + \
+				"├   「 Send Mid 」" + "\n" + \
+				"├ " + key + "MyMid" + "\n" + \
+				"├   「 Send Name 」" + "\n" + \
+				"├ " + key + "MyName" + "\n" + \
+				"├   「 Send Bio 」" + "\n" + \
+				"├ " + key + "MyBio" + "\n" + \
+				"├   「 Send Picture 」" + "\n" + \
+				"├ " + key + "MyPicture" + "\n" + \
+				"├   「 Send Video Profile 」" + "\n" + \
+				"├ " + key + "MyVideo" + "\n" + \
+				"├   「 Send Cover Profile 」" + "\n" + \
+				"├ " + key + "MyCover" + "\n" + \
+				"├   「 Send Profile 」" + "\n" + \
+				"├ " + key + "MyProfile" + "\n" + \
 				"╰────────────"
 	return menuMy
 
@@ -1601,20 +1593,21 @@ def menuGet():
 		key = settings['keyCommand']
 	else:
 		key = ''
-	menuGet =	"╭───「 Get 」" + "\n" + \
-				"├「 Send Mid Target 」" + "\n" + \
-				"├≽ " + key + "GetMid 「@」" + "\n" + \
-				"├「 Send Name Target 」" + "\n" + \
-				"├≽ " + key + "GetName 「@」" + "\n" + \
-				"├「 Send Bio Target 」" + "\n" + \
-				"├≽ " + key + "GetBio 「@」" + "\n" + \
-				"├「 Send Picture Target 」" + "\n" + \
-				"├≽ " + key + "GetPicture 「@」" + "\n" + \
-				"├「 Send Video Target 」" + "\n" + \
-				"├≽ " + key + "GetVideoProfile 「@」" + "\n" + \
-				"├「 Send Cover Target 」" + "\n" + \
-				"├≽ " + key + "GetCover 「@」" + "\n" + \
-				"├「 Note 」" + "\n" + \
+	menuGet =	"╭───「 Menu 」" + "\n" + \
+				"├   「 Send Mid Target 」" + "\n" + \
+				"├ " + key + "GetMid 「@」" + "\n" + \
+				"├   「 Send Name Target 」" + "\n" + \
+				"├ " + key + "GetName 「@」" + "\n" + \
+				"├   「 Send Bio Target 」" + "\n" + \
+				"├ " + key + "GetBio 「@」" + "\n" + \
+				"├   「 Send Picture Target 」" + "\n" + \
+				"├ " + key + "GetPicture 「@」" + "\n" + \
+				"├   「 Send Video Target 」" + "\n" + \
+				"├ " + key + "GetVideoProfile 「@」" + "\n" + \
+				"├   「 Send Cover Target 」" + "\n" + \
+				"├ " + key + "GetCover 「@」" + "\n" + \
+				"    " + "\n" + \
+				"├   「 Note 」" + "\n" + \
 				"├[Mention] : 「@」" + "\n" + \
 				"╰────────────"
 	return menuGet
@@ -1654,15 +1647,37 @@ def menuMimic():
 	else:
 		key = ''
 	menuMimic =	"╭───「 Mimic 」" + "\n" + \
-				"├≽ " + key + "Mimic 「/」" + "\n" + \
-				"├≽ " + key + "MimicList" + "\n" + \
-				"├≽ " + key + "MimicAdd 「@」" + "\n" + \
-				"├≽ " + key + "MimicDel 「@」" + "\n" + \
-				"├「 Note 」" + "\n" + \
+				"├ " + key + "Mimic 「/」" + "\n" + \
+				"├ " + key + "MimicList" + "\n" + \
+				"├ " + key + "MimicAdd 「@」" + "\n" + \
+				"├ " + key + "MimicDel 「@」" + "\n" + \
+				"    " + "\n" + \
+				"├   「 Note 」" + "\n" + \
 				"├[On/Off] : 「/」" + "\n" + \
 				"├[Mention] : 「@」" + "\n" + \
 				"╰────────────"
 	return menuMimic
+
+def menuHelp2():
+	if settings['setKey'] == True:
+		key = settings['keyCommand']
+	else:
+		key = ''
+	menuMimic =	"╭───「 SelfBot (Aked) 」" + "\n" + \
+				"├ " + key + "Help1" + "\n" + \
+				"├ " + key + "Help2" + "\n" + \
+				"├ " + key + "Help3" + "\n" + \
+				"├ " + key + "Help4" + "\n" + \
+				"├ " + key + "Help5" + "\n" + \
+				"├ " + key + "Help6" + "\n" + \
+				"├ " + key + "Help7" + "\n" + \
+				"├ " + key + "Status" + "\n" + \
+				"    " + "\n" + \
+				"├   「 Status Login 」" + "\n" + \
+				"├ Login : Sukses" + "\n" + \
+				"├ Data Expired : 19-8-2018" + "\n" + \
+				"╰────────────"
+	return menuHelp2
 	
 def menuChange():
 	if settings['setKey'] == True:
@@ -1671,13 +1686,13 @@ def menuChange():
 		key = ''
 	menuChange =	"╭───「 Profile 」" + "\n" + \
 				"├「 Change Your Name 」" + "\n" + \
-				"├≽ " + key + "ChangeName: 「Text」" + "\n" + \
+				"├ " + key + "ChangeName: 「Text」" + "\n" + \
 				"├「 Change Your Bio 」" + "\n" + \
-				"├≽ " + key + "ChangeBio: 「Text」" + "\n" + \
+				"├ " + key + "ChangeBio: 「Text」" + "\n" + \
 				"├「 Change Your Picture 」" + "\n" + \
-				"├≽ " + key + "ChangePP" + "\n" + \
+				"├ " + key + "ChangePP" + "\n" + \
 				"├「 Change Your Video 」" + "\n" + \
-				"├≽ " + key + "ChangeVP" + "\n" + \
+				"├ " + key + "ChangeVP" + "\n" + \
 				"╰────────────"
 	return menuChange
 
@@ -1688,14 +1703,14 @@ def menuSpam():
 		key = ''
 	menuSpam =	"╭───「 Spam 」" + "\n" + \
 				"├「 Spam Mention Target 」" + "\n" + \
-				"├≽ " + key + "Spamtag 「*」 「@」" + "\n" + \
+				"├ " + key + "Spamtag 「*」 「@」" + "\n" + \
 				"├「 Spam Call Group 」" + "\n" + \
-				"├≽ " + key + "Spamcall 「*」" + "\n" + \
+				"├ " + key + "Spamcall 「*」" + "\n" + \
 				"├「 Spam Call Private 」" + "\n" + \
-				"├≽ " + key + "Spamcallto 「*」 「@」" + "\n" + \
+				"├ " + key + "Spamcallto 「*」 「@」" + "\n" + \
 				"├「 Spam Text 」" + "\n" + \
-				"├≽ " + key + "Spamtext 「/」 「*」 「+」" + "\n" + \
-				"├「 Note 」" + "\n" + \
+				"├ " + key + "Spamtext 「/」 「*」 「+」" + "\n" + \
+				"├   「 Note 」" + "\n" + \
 				"├[On/Off] : 「/」" + "\n" + \
 				"├[Number] : 「*」" + "\n" + \
 				"├[Mention] : 「@」" + "\n" + \
@@ -1709,16 +1724,16 @@ def menuStatus():
 	else:
 		key = ''
 	menuStatus =	"╭───「 Status 」" + "\n" + \
-				"├≽ " + key + "AutoAdd 「/」" + "\n" + \
-				"├≽ " + key + "AutoJoin 「/」" + "\n" + \
-				"├≽ " + key + "AutoJoinTicket 「/」" + "\n" + \
-				"├≽ " + key + "AutoRead 「/」" + "\n" + \
-				"├≽ " + key + "AutoRespon 「/」" + "\n" + \
-				"├≽ " + key + "CheckContact 「/」" + "\n" + \
-				"├≽ " + key + "CheckPost 「/」" + "\n" + \
-				"├≽ " + key + "CheckSticker 「/」" + "\n" + \
-				"├≽ " + key + "DetectUnsend 「/」" + "\n" + \
-				"├「 Note 」" + "\n" + \
+				"├ " + key + "AutoAdd 「/」" + "\n" + \
+				"├ " + key + "AutoJoin 「/」" + "\n" + \
+				"├ " + key + "AutoJoinTicket 「/」" + "\n" + \
+				"├ " + key + "AutoRead 「/」" + "\n" + \
+				"├ " + key + "AutoRespon 「/」" + "\n" + \
+				"├ " + key + "CheckContact 「/」" + "\n" + \
+				"├ " + key + "CheckPost 「/」" + "\n" + \
+				"├ " + key + "CheckSticker 「/」" + "\n" + \
+				"├ " + key + "DetectUnsend 「/」" + "\n" + \
+				"├     「 Note 」" + "\n" + \
 				"├[On/Off] : 「/」" + "\n" + \
 				"╰────────────"
 	return menuStatus
